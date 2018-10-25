@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Helix Jump Assets/helix/Scenes/Gameplay.unity
+  isLoaded: 1
+  isActive: 1
